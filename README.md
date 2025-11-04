@@ -1,4 +1,4 @@
-# **VBAY Database Data Warehouse Project**
+# **Enterprise Sales & Location Intelligence Warehouse**
 
 ## **Project Overview**:
 
